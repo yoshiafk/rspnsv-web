@@ -1,1 +1,1 @@
-# rspnsv-web
+# Responsive Web with day & night mode switcher using javascript
